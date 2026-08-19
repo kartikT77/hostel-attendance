@@ -1,17 +1,16 @@
 {
   "expo": {
     "name": "Hostel Attendance",
-    "owner": "kartikt77",
     "slug": "hostel-attendance",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "backgroundColor": "#F0EFE6"
     },
     "android": {
-      "package": "com.yourname.hostelattendance",
+      "package": "com.hostelattendance.app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#F0EFE6"
       }
