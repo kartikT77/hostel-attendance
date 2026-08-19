@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Hostel Attendance",
+    "owner": "kartikt77",
     "slug": "hostel-attendance",
     "version": "1.0.0",
     "orientation": "portrait",
